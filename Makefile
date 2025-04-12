@@ -2,7 +2,7 @@
 TEMPLATE_PATH				:= templates/eg
 
 # Configure programs to use
-PDF_VIEWER 					:= evince
+PDF_VIEWER 					:= open
 
 # Configure main input files
 MAIN_FILE_TEX				:= main.tex
